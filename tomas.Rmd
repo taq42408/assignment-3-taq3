@@ -1,0 +1,24 @@
+---
+title: "Tomas.Rmd"
+output: html_document
+date: "2023-02-15"
+---
+This page should include the following:
+Your first name as the title
+An unordered list of some information about you, including at least 3 bullet points
+
+
+<br />
+Hi, I'm Tomas! 
+<br />
+
+## Facts ~ TOMAS 
+
+* I'm a tech in the Entomology dept. 
+* I'm hoping to get into a PHD program in Herpetology! 
+* My hobbies include, gardening, bike riding, cooking/baking, exercising. 
+* I'm originally from Texas, and I grew up in a Latino household. 
+* I love reptiles/amphibians. 
+* I don't have an online presence. I tend to keep pictures of myself off the internet. 
+<br />
+
